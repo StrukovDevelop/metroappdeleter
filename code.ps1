@@ -28,7 +28,9 @@ while(1 -gt 0)
             {
                 Write-Output "Enter package's name: "
                 $appName = Read-Host
+                
                 Get-AppxPackage *$allUsersBool* *$appName* | Remove-AppxPackage
+                
                 Write-Output "Package " $appName " was deleted succesfully!"
                 $deletedApps += 1
             }
