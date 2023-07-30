@@ -6,10 +6,10 @@ removing metro applications.
 *This paragraph is not finished*
 
 ## Author
-Author is Strukov Andrey Evgenyevich, an indie developer from Russia.
+The author is Strukov Andrey Evgenyevich, an indie developer from Russia.
 
 ## Plans
-After three-four of stagnation years I'd like to countinue this 
+After three-four years of stagnation I'd like to countinue this 
 project and make it more smart and more spread. So, please, if you
 need somenthing like this or you know somebody, who may need this,
 tell them or use by youself. Have a nice day!
